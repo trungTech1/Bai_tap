@@ -1,0 +1,50 @@
+.tr{
+    width: 100px;
+    height: 50;
+    font-size: 18;
+    text-align: center;
+    background-color: yellow;
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.th{
+    font-size: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.a{
+    color: blue;
+}
+.c{
+display: inline-block;
+position: relative;
+left: 50%;
+transform: translateX(-50%);
+margin-bottom:33.5px ;
+}
+.f{display: inline-block;
+position: relative;
+left: 50%;
+transform: translateX(-50%);
+font-size: 30px;
+}
+.view{
+    
+    color: white;
+    margin: 10px;
+    background-color: black;
+    padding: 15px;
+}
+.all{
+    color: white;
+        margin: 10px;
+        background-color: black;
+        padding: 15px;
+
+}
+
+

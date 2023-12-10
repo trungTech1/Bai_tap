@@ -1,0 +1,22 @@
+.div1{
+  background-color: rgb(96, 247, 96);
+  width: 600px;
+  height: 280px;
+  display: block;margin: 0px auto;
+/* height: 260px; */
+}
+.form{
+  width: 300px;
+   margin: 18px;
+}
+.dk{
+background-color: blueviolet;
+color: #ffffff;
+}
+.abc{
+  padding-top: 10px;
+}
+
+/* input{
+  width:500px;
+} */

@@ -1,0 +1,31 @@
+body {
+  background-image: url(tai-hinh-nen-dep-nhat-the-gioi-57.jpg);
+}
+.a{
+    margin-top: 100px;
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    color: rebeccapurple;
+    font-size: 50px;
+}
+.b{
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.c{
+    display: block;margin: 0 auto;
+justify-content: space-between;
+    background-color: black;
+    color: white;
+    width: 400PX;
+    height: 60PX;
+text-align: center;
+margin-top: 50PX;
+font-size: 20PX;
+
+}
+    

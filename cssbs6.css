@@ -1,0 +1,30 @@
+body{
+    background-color: wheat;
+}
+h1{
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.head{
+    padding-left: 10px;
+   
+}
+form{
+    background-color: white;
+  display: inline-block;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+}
+.ip{
+    background-color: blueviolet;
+}
+.tn{
+    height: 60px;
+}
